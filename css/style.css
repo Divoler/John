@@ -157,6 +157,75 @@ background-color: yellow;
     text-align: center;
     color: #8BCAC3;
 }
+.works{
+    max-width: 1032px;
+    margin: auto;
+    padding-top: 15px;
+    padding-bottom: 63px;
+}
+.achievements{
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 60px;
+    color: #21243D;
+    margin-bottom: 22px;
+}
+.dashboard{
+    display: flex;
+    border-bottom: 1px solid #E0E0E0;
+    margin-bottom: 31px;
+}
+.works article img{
+    margin-right: 18px;
+    margin-bottom: 15px;
+}
+.works_semple{
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 44px;
+    color: #21243D;
+}
+.year{
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 18px;
+    line-height: 60px;
+    color: #FFFFFF;
+    width: 62px;
+    height: 25px;
+    background: #142850;
+    border-radius: 16px;
+    text-decoration: none;
+    text-align: center;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-top: 20px;
+    margin-right: 26px;
+    margin-bottom: 22px;
+}
+.dashboard_semple{
+    margin-top: 16px;
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 29px;
+    color: #8695A4;
+}
+.works article p{
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #21243D;
+
+}
 footer {
     padding-top: 51px; padding-bottom: 101px
 }
